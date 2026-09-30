@@ -14,8 +14,7 @@ This is a Go rewrite of [MSFS Layout Generator](https://github.com/HughesMDflyer
 
 ## Download
 
-1. Open the [latest successful build](https://github.com/andya1lan/MSFSLayoutGenerator/actions/workflows/ci.yml?query=branch%3Amaster+is%3Asuccess) and select the top run. You need to be signed in to GitHub.
-2. Under **Artifacts**, download `MSFSLayoutGenerator` and unzip it.
+Download `MSFSLayoutGenerator.exe` from the [latest release](https://github.com/andya1lan/MSFSLayoutGenerator/releases/latest).
 
 Requires Windows 10 or 11 (x64). Because the exe is not code-signed, Windows may show a SmartScreen warning the first time; choose **More info**, then **Run anyway**.
 
